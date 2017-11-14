@@ -10,10 +10,6 @@ class TestFakerNaruto < Test::Unit::TestCase
     assert @tester.character.match(/\w+/)
   end
 
-  def test_kage
-    assert @tester.kage.match(/\w+/)
-  end
-
   def test_genjutsu
     assert @tester.genjutsu.match(/\w+/)
   end
