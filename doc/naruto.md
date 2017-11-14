@@ -7,7 +7,7 @@ Faker::Naruto.kage #=> "Tsunade"
 
 Faker::Naruto.genjutsu #=> "Tsukuyomi"
 
-Faker::Naruto.ninjutsu #=> "Foosha Village"
+Faker::Naruto.ninjutsu #=> "Susanoo"
 
 Faker::Naruto.taijutsu #=> "Dainamikku Entorī"
 
