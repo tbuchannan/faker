@@ -3,8 +3,6 @@
 ```ruby
 Faker::Naruto.character #=> "Naruto Uzumaki"
 
-Faker::Naruto.kage #=> "Tsunade"
-
 Faker::Naruto.genjutsu #=> "Tsukuyomi"
 
 Faker::Naruto.ninjutsu #=> "Susanoo"
